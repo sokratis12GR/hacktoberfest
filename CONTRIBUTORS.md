@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sokratis Fotkatzikis](https://github.com/sokratis12GR)
+- Place: Blagoevgrad, Bulgaria
+- Bio: Java & C# Developer, Web Developer, beginner Entrepreneur and a Student
+- Github: [sokratis12GR](https://github.com/sokratis12GR)
